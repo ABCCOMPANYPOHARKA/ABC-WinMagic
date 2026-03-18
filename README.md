@@ -1,7 +1,8 @@
-# ABC WinMagic
-
 
 <h1 align="left">Hey 👋 What's up?</h1>
+
+# ABC WinMagic
+
 
 ###
 
@@ -64,7 +65,7 @@
 <i>WwW.AbcCompanyPoharka.C1.Biz</i>
 </center>
 <hr color="blue">
-###
+
 
 <h2 align="left">I code with ❤️ and </h2>
 
