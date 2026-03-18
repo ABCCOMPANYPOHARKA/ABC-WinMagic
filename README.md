@@ -67,7 +67,7 @@
 <hr color="blue">
 
 
-<h2 align="left">I code with ❤️ and </h2><h2 align="left">AHK Script</h2>
+<h2 align="left">I code with ❤️ and </h2><h2>AHK Script</h2>
 
 
 
