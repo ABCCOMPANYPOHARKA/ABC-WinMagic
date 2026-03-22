@@ -1,2 +1,2 @@
-*.rb linguist-language=Java
+*          text=auto
 *.html linguist-detectable=false
