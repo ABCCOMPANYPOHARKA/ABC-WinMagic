@@ -1,2 +1,3 @@
-*.exe binary
+*.dll binary
+*.bat text
 *.html linguist-detectable=false
