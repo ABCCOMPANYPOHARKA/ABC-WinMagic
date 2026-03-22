@@ -1,12 +1,12 @@
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />  What's up?</h1> 
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="28" height="28" />  What's up?</h1> 
 
 # ABC WinMagic
 
 
 ###
 
-<p align="left">This Tool Easy Your Day <img width="32" height="32" alt="winking_face_with_tongue_animated" src="https://github.com/user-attachments/assets/fbd3903a-b43d-47c4-93b0-bdd895e939ec" /> With Shortcuts Of Windows.</p>
+<p align="left">This Tool Easy Your Day <img width="28" height="28" alt="winking_face_with_tongue_animated" src="https://github.com/user-attachments/assets/fbd3903a-b43d-47c4-93b0-bdd895e939ec" /> With Shortcuts Of Windows.</p>
 
 ###
 
