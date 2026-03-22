@@ -1,3 +1,2 @@
-*.dll binary
-*.bat text
+*.rb linguist-language=Java
 *.html linguist-detectable=false
