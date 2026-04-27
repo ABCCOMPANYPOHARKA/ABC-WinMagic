@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">This Tool Easy Your Day <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Peeking%20Eye.png" alt="Face with Peeking Eye" width="33" height="33" />  With Shortcuts Of Windows.</p>
+<p align="left">This Tool Easy Your Day <img width="28" height="28" alt="winking_face_with_tongue_animated" src="https://github.com/user-attachments/assets/fbd3903a-b43d-47c4-93b0-bdd895e939ec" /> With Shortcuts Of Windows.</p>
 
 ###
 
