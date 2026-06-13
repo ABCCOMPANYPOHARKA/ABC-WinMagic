@@ -7,7 +7,7 @@
 ###
 
 <p align="left">This Tool Easy Your Day <img width="28" height="28" alt="winking_face_with_tongue_animated" src="https://github.com/user-attachments/assets/fbd3903a-b43d-47c4-93b0-bdd895e939ec" /> With Shortcuts Of Windows.</p>
-
+https://custom-icon-badges.demolab.com/badge/command-brown.svg?logo=command&logoSource=feather
 ###
 
 <h2 align="left">How To Use </h2>
